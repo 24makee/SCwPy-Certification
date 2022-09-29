@@ -1,6 +1,12 @@
 # Scientific Computing with Python - Certification
 
 This repository contains my solutions to the challenges required by the Scientific Computing with Python certification from FreeCodeCamp
-In each directory, you can find the project associated to each challenge in particular and also the challenge details and requirements.
 
-As a personal input regarding this certification, I feel that the coding problems are walking anyone who tries to get this certificate through almost every aspect of Python, such as string manipulation, working with classes and also challenging people's logics.
+In each directory, you can find the project associated to each challenge and also the challenge details and requirements.
+
+Due to my interest in Python, I thought to give this certification a try and as a personal input I find this certification very useful for people who want to learn Python.
+
+The challenges treat subjects as low to medium in difficulty, such as string manipulation, understanding Python data types and working with classes.
+
+The certificate can be found here: https://www.freecodecamp.org/certification/24makee/scientific-computing-with-python-v7
+
